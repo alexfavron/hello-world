@@ -1,2 +1,3 @@
 # hello-world
-First repository as a test
+
+Hello, I made a test to see how we do stuff
